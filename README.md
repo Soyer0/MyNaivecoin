@@ -1,0 +1,2 @@
+# MyNaivecoin
+later
